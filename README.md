@@ -26,3 +26,8 @@ while True:
 
 ##https://www.youtube.com/watch?v=RQ_UU8g_f3A
 
+
+
+
+
+[{"name":"잔여백신","url":"naver.com","initWait":0,"startTime":"","enable":true,"startType":"auto","loadType":"window","hotkey":"Ctrl + Shift + A","batch":{"refresh":false,"repeat":999999,"repeatInterval":0.2},"actions":[{"name":"","initWait":0,"elementFinder":"ClassName::_1MCHh","value":"ClickEvents","repeat":0,"repeatInterval":0,"addon":{"elementFinder":"","value":"","condition":"","valueExtractor":"","recheck":0,"recheckInterval":0,"recheckOption":"stop"},"settings":{"retry":0,"retryOption":"skip"}},{"name":"","initWait":0,"elementFinder":"//*[@id=\"_list_scroll_container\"]/div/div/div[3]/ul/li/div[2]/div[1]/a","value":"ClickEvents","repeat":0,"repeatInterval":0,"addon":{"elementFinder":"","value":"","condition":"","valueExtractor":"","recheck":0,"recheckInterval":0,"recheckOption":"stop"},"focus":true,"settings":{"retry":0,"retryOption":"skip"}},{"name":"","initWait":0,"elementFinder":"//*[@id=\"reservation_confirm\"]","value":"ClickEvents","repeat":0,"repeatInterval":0,"addon":{"elementFinder":"","value":"","condition":"","valueExtractor":"","recheck":0,"recheckInterval":0,"recheckOption":"stop"},"focus":true,"settings":{"retry":3,"retryInterval":0.1,"retryOption":"skip"}}]}]
