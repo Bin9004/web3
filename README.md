@@ -31,3 +31,26 @@ while True:
 
 
 [{"name":"잔여백신","url":"naver.com","initWait":0,"startTime":"","enable":true,"startType":"auto","loadType":"window","hotkey":"Ctrl + Shift + A","batch":{"refresh":false,"repeat":999999,"repeatInterval":0.2},"actions":[{"name":"","initWait":0,"elementFinder":"ClassName::_1MCHh","value":"ClickEvents","repeat":0,"repeatInterval":0,"addon":{"elementFinder":"","value":"","condition":"","valueExtractor":"","recheck":0,"recheckInterval":0,"recheckOption":"stop"},"settings":{"retry":0,"retryOption":"skip"}},{"name":"","initWait":0,"elementFinder":"//*[@id=\"_list_scroll_container\"]/div/div/div[3]/ul/li/div[2]/div[1]/a","value":"ClickEvents","repeat":0,"repeatInterval":0,"addon":{"elementFinder":"","value":"","condition":"","valueExtractor":"","recheck":0,"recheckInterval":0,"recheckOption":"stop"},"focus":true,"settings":{"retry":0,"retryOption":"skip"}},{"name":"","initWait":0,"elementFinder":"//*[@id=\"reservation_confirm\"]","value":"ClickEvents","repeat":0,"repeatInterval":0,"addon":{"elementFinder":"","value":"","condition":"","valueExtractor":"","recheck":0,"recheckInterval":0,"recheckOption":"stop"},"focus":true,"settings":{"retry":3,"retryInterval":0.1,"retryOption":"skip"}}]}]
+
+
+
+
+라틴어(1) 1주차 숙제
+
+2017163055 정종빈
+
+숙제1.
+
+1. Gladius(검) 2. Vinciō(승리하다) 3. Principia(원리) 4.liberta(자유민) 5.impromptu(즉흥곡)
+
+숙제2.
+
+1. 에라스무스 – 우신예찬 
+2. 토머스 모어 – 유토피아
+3. 아이작 뉴튼 - 프린키피아 
+4. 데카르트 – 철학 원리
+5. 코페르니쿠스 – 천구의 회전에 관하여
+
+숙제 3.
+키케로, 크라수스, 스파르타쿠스, 폼페이우스, 카이사르
+
